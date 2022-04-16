@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ---------- Init variables ----------
-mysql_root_password="test@123PW"
+mysql_root_password="mysql_root_password"
 
 # ---------- Enable firewall ----------
 echo -e "\033[32m---------- START ENABLE FIREWALL ----------\033[0m"
