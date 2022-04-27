@@ -1,5 +1,6 @@
 # TIL
 Today I Learned...
+Content of this repository is moved to [cuongtobi.github.io](https://cuongtobi.github.io). This repo is archived now.
 
 ## Shell
 - [DigitalOcean install PHP, Nginx, MySQL](https://github.com/cuongtobi/TIL/blob/main/src/shell/digitalocean_install_php_nginx_mysql.sh)
